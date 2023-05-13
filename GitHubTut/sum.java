@@ -1,8 +1,7 @@
-
+package GitHubTut;
 class Java{
-    void fruit(){
-        System.out.println("Atharva");
-        
+    public static void main(){
+        System.out.println("Atharva tete");   
     }
-
 }
+  
